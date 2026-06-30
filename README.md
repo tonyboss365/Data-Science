@@ -1,4 +1,12 @@
-# Data Science Internals
+# Data-Science S5 (Akshay-2420030604)
+
+> [!IMPORTANT]
+> **Academic Details**
+> * **Student Name:** Akshay Kumar Reddy
+> * **Roll Number:** 2420030604
+> * **Subject:** Data Science
+> * **Section:** 5 (S5)
+> * **Guide:** Dr. D. Bheekya
 
 Welcome to my academic evaluation log for Data Science. This repository is structured to align with the course marks distribution and evaluation metrics of the course, encompassing course certifications, the capstone project source code, and weekly laboratory evaluation notebooks.
 
@@ -25,7 +33,8 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 │   └── Python for Data Science.png
 │
 ├── 2. Mini or capstone project/
-│   └── GLYCOS.ai/                                # Capstone project source code
+│   ├── GLYCOS.ai/                                # Capstone project source code
+│   └── GLYCOS AI - Metabolic Intelligence.pptx    # Capstone project presentation PPTX
 │
 └── 3. Lab Continuous Evaluation/                 # Weekly continuous evaluation log
     ├── Week 01/
@@ -65,6 +74,7 @@ An interactive machine learning dashboard designed to model and visualize suscep
 
 * **Live Deployment Link:** [https://glycos-ai.vercel.app/](https://glycos-ai.vercel.app/)
 * **Project Folder:** [`/2. Mini or capstone project/GLYCOS.ai`](./2.%20Mini%20or%20capstone%20project/GLYCOS.ai/)
+* **Project Presentation:** [GLYCOS AI - Metabolic Intelligence.pptx](./2.%20Mini%20or%20capstone%20project/GLYCOS%20AI%20-%20Metabolic%20Intelligence.pptx)
 * **Technology Stack:** Vite + React JS, Framer Motion, GSAP, Tailwind CSS, Recharts.
 
 ---
