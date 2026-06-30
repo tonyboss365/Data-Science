@@ -1,8 +1,8 @@
-# 📊 Data Science Portfolio & Academic Log
+# 📊 Data Science Internals
 
-[![Live Link](https://img.shields.io/badge/Live%20Project-glycos--ai.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://glycos-ai.vercel.app/)
+[![Capstone Live Link](https://img.shields.io/badge/Capstone%20Live%20Link-glycos--ai.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://glycos-ai.vercel.app/)
 
-Welcome to my academic evaluation portfolio for Data Science. This repository is structured to align with the marks distribution and evaluation metrics of the course, encompassing course certifications, the capstone project source code, and weekly laboratory evaluation notebooks.
+Welcome to my academic evaluation log for Data Science. This repository is structured to align with the course marks distribution and evaluation metrics of the course, encompassing course certifications, the capstone project source code, and weekly laboratory evaluation notebooks.
 
 ---
 
@@ -66,7 +66,7 @@ Welcome to my academic evaluation portfolio for Data Science. This repository is
 ### **GLYCOS.ai — Clinical Metabolic Susceptibility Engine**
 An interactive machine learning dashboard designed to model and visualize susceptibility curves using multivariate logistic regression directly inside the browser.
 
-* **Live Deployment:** [https://glycos-ai.vercel.app/](https://glycos-ai.vercel.app/)
+* **Live Deployment Link:** [https://glycos-ai.vercel.app/](https://glycos-ai.vercel.app/)
 * **Project Folder:** [`/2. Mini or capstone project/GLYCOS.ai`](./2.%20Mini%20or%20capstone%20project/GLYCOS.ai/)
 * **Technology Stack:** Vite + React JS, Framer Motion, GSAP, Tailwind CSS, Recharts.
 
