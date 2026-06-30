@@ -1,23 +1,20 @@
-# 📊 Data Science Internals
-
-[![Capstone Live Link](https://img.shields.io/badge/Capstone%20Live%20Link-glycos--ai.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://glycos-ai.vercel.app/)
+# Data Science Internals
 
 Welcome to my academic evaluation log for Data Science. This repository is structured to align with the course marks distribution and evaluation metrics of the course, encompassing course certifications, the capstone project source code, and weekly laboratory evaluation notebooks.
 
 ---
 
-## 📈 Academic Evaluation Matrix
+## Academic Evaluation Matrix
 
 | Metric | Max Marks | Status | Repository Folder |
 | :--- | :---: | :---: | :--- |
 | **1. MOOCs Review** | **40 Marks** | `[ Verified - 2 Course Certificates ]` | [`/1. Moocs Review`](./1.%20Moocs%20Review/) |
 | **2. Mini / Capstone Project** | **40 Marks** | `[ Completed - GLYCOS.ai ]` | [`/2. Mini or capstone project`](./2.%20Mini%20or%20capstone%20project/) |
 | **3. Lab Continuous Evaluation** | **50 Marks** | `[ Completed - Weeks 1 to 13 ]` | [`/3. Lab Continuous Evaluation`](./3.%20Lab%20Continuous%20Evaluation/) |
-| **Total Weightage** | **130 Marks** | **Audit Ready** | |
 
 ---
 
-## 📁 Repository Structure Map
+## Repository Structure Map
 
 ```text
 .
@@ -48,7 +45,7 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 
 ---
 
-## 🎓 1. MOOCs Review (Max 40 Marks)
+## 1. MOOCs Review (Max 40 Marks)
 
 *Verification Status: Checked & Approved (20 Marks per course)*
 
@@ -61,7 +58,7 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 
 ---
 
-## 🚀 2. Capstone Project (Max 40 Marks)
+## 2. Capstone Project (Max 40 Marks)
 
 ### **GLYCOS.ai — Clinical Metabolic Susceptibility Engine**
 An interactive machine learning dashboard designed to model and visualize susceptibility curves using multivariate logistic regression directly inside the browser.
@@ -72,7 +69,7 @@ An interactive machine learning dashboard designed to model and visualize suscep
 
 ---
 
-## 🧪 3. Lab Continuous Evaluation (Max 50 Marks)
+## 3. Lab Continuous Evaluation (Max 50 Marks)
 
 Below is the complete weekly breakdown of laboratory experiments, implementations, and algorithms covered in this repository.
 
