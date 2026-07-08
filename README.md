@@ -53,7 +53,7 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 │   └── Week 13/
 │
 └── lab End exam/                                 # Lab End Semester Exam solution
-    └── q9.py
+    └── q9.ipynb
 ```
 
 ---
@@ -108,7 +108,7 @@ Below is the complete weekly breakdown of laboratory experiments, implementation
 ## 4. Lab End Semester Exam
 
 * **Folder Link:** [`lab End exam`](./lab%20End%20exam/)
-* **Primary Script:** [`q9.py`](./lab%20End%20exam/q9.py)
+* **Primary Notebook:** [`q9.ipynb`](./lab%20End%20exam/q9.ipynb)
 * **Student Name:** Akshay Kumar Reddy
 * **Roll Number:** 2420030604
 * **Topics covered:** Text Preprocessing, Bag of Words Vectorization, Naive Bayes Classifier training, WordCloud Visualization, and Categorical Bar Chart representation.
