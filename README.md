@@ -63,7 +63,7 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 *Verification Status: Checked & Approved (20 Marks per course)*
 
 1. **Course 1: Explore Machine Learning using Python**
-   - **Platform:** Coursera (Google AI Partner)
+   - **Platform:** Infosis Navigate your next
    - **Credentials:** [Certificate PDF](./1.%20Moocs%20Review/Explore%20Machine%20Learning%20using%20Python.pdf) | [Certificate Image](./1.%20Moocs%20Review/Explore%20Machine%20Learning%20using%20Python.png)
 2. **Course 2: Python for Data Science**
    - **Platform:** NPTEL (IBM Collaboration)
