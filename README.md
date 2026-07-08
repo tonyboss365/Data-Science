@@ -19,6 +19,7 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 | **1. MOOCs Review** | **40 Marks** | `[ Verified - 2 Course Certificates ]` | [`/1. Moocs Review`](./1.%20Moocs%20Review/) |
 | **2. Mini / Capstone Project** | **40 Marks** | `[ Completed - GLYCOS.ai ]` | [`/2. Mini or capstone project`](./2.%20Mini%20or%20capstone%20project/) |
 | **3. Lab Continuous Evaluation** | **50 Marks** | `[ Completed - Weeks 1 to 13 ]` | [`/3. Lab Continuous Evaluation`](./3.%20Lab%20Continuous%20Evaluation/) |
+| **4. Lab End Semester Exam** | **- Marks** | `[ Completed - Q9 ]` | [`/lab End exam`](./lab%20End%20exam/) |
 
 ---
 
@@ -36,20 +37,23 @@ Welcome to my academic evaluation log for Data Science. This repository is struc
 │   ├── GLYCOS.ai/                                # Capstone project source code
 │   └── GLYCOS AI - Metabolic Intelligence.pptx    # Capstone project presentation PPTX
 │
-└── 3. Lab Continuous Evaluation/                 # Weekly continuous evaluation log
-    ├── Week 01/
-    ├── Week 02/
-    ├── Week 03/
-    ├── Week 04/
-    ├── Week 05/
-    ├── Week 06/
-    ├── Week 07/
-    ├── Week 08/
-    ├── Week 09/
-    ├── Week 10/
-    ├── Week 11/
-    ├── Week 12/
-    └── Week 13/
+├── 3. Lab Continuous Evaluation/                 # Weekly continuous evaluation log
+│   ├── Week 01/
+│   ├── Week 02/
+│   ├── Week 03/
+│   ├── Week 04/
+│   ├── Week 05/
+│   ├── Week 06/
+│   ├── Week 07/
+│   ├── Week 08/
+│   ├── Week 09/
+│   ├── Week 10/
+│   ├── Week 11/
+│   ├── Week 12/
+│   └── Week 13/
+│
+└── lab End exam/                                 # Lab End Semester Exam solution
+    └── q9.py
 ```
 
 ---
@@ -98,3 +102,14 @@ Below is the complete weekly breakdown of laboratory experiments, implementation
 | **11** | [`Week 11`](./3.%20Lab%20Continuous%20Evaluation/Week%2011/week-11/) | [`Classification Algorithms.ipynb`](./3.%20Lab%20Continuous%20Evaluation/Week%2011/week-11/Classification%20Algorithms.ipynb) | Student Pass/Fail Prediction, Decision Tree (GridSearchCV, Cross-Validation, visualization), KNN classification, and multi-model benchmark | NumPy, Pandas, Scikit-learn, Matplotlib |
 | **12** | [`Week 12`](./3.%20Lab%20Continuous%20Evaluation/Week%2012/week-12/) | [`K-Means Clustering + Hierarchical Clustering.ipynb`](./3.%20Lab%20Continuous%20Evaluation/Week%2012/week-12/K-Means%20Clustering%20+%20Hierarchical%20Clustering.ipynb) | Customer segmentation (K-Means, Hierarchical/Dendrogram), multi-clustering comparison (8 models), Elbow and Silhouette parameter tuning | NumPy, Pandas, Scikit-learn, Matplotlib, SciPy |
 | **13** | [`Week 13`](./3.%20Lab%20Continuous%20Evaluation/Week%2013/week-13/) | [`Text Preprocessing and Recommendation.ipynb`](./3.%20Lab%20Continuous%20Evaluation/Week%2013/week-13/Text%20Preprocessing%20and%20Recommendation.ipynb) | Tokenization, Stopword removal, Stemming, TF-IDF Text Analytics, Naive Bayes Classifier, Cosine similarity, Collaborative filtering | Pandas, Matplotlib, Scikit-learn, NLTK |
+
+---
+
+## 4. Lab End Semester Exam
+
+* **Folder Link:** [`lab End exam`](./lab%20End%20exam/)
+* **Primary Script:** [`q9.py`](./lab%20End%20exam/q9.py)
+* **Student Name:** Akshay Kumar Reddy
+* **Roll Number:** 2420030604
+* **Topics covered:** Text Preprocessing, Bag of Words Vectorization, Naive Bayes Classifier training, WordCloud Visualization, and Categorical Bar Chart representation.
+
